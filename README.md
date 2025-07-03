@@ -53,3 +53,15 @@ Open [http://localhost:8000](http://localhost:8000) in your browser.
 
 ### Home Page
 ![Home Page](screenshots/home_page.png)
+
+### Profile
+![Profile Page](screenshots/profile.png)
+
+### Youtube Search
+![Youtube Search](screenshots/youtube_search.png)
+
+### Wikipedia Search
+![Wikipedia Search](screenshots/wikipedia_search.png)
+
+### Notes
+![Notes Page](screenshots/notes.png)
