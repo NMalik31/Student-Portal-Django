@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Django stuff:
+db.sqlite3
+*.sqlite3
+*.log
+*.pot
+*.pyc
+
+# Environment
+.env
+env1/
+venv/
+ENV/
+env/
+.Python
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
