@@ -52,7 +52,4 @@ Open [http://localhost:8000](http://localhost:8000) in your browser.
 ## Screenshots
 
 ### Home Page
-![Home Page](images/home_page.png)
-
-### Dashboard
-![Dashboard](images/dashboard.png)
+![Home Page](screenshots/screenshot(8))
