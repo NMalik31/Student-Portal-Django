@@ -49,10 +49,10 @@ Open [http://localhost:8000](http://localhost:8000) in your browser.
 - The `db.sqlite3` and `env1/` directories are local and should be ignored by git. If not, add them to your `.gitignore.txt`.
 - The `dashboard` app handles core portal functionality (see code for details).
 
-## License
+## Screenshots
 
-MIT
+### Home Page
+![Home Page](images/home_page.png)
 
----
-
-*Feel free to customize this README with more details about your project’s features and usage!*
+### Dashboard
+![Dashboard](images/dashboard.png)
